@@ -8,7 +8,8 @@ SpringHomeWork3
         │               ├── SpringHomeWork3Application.java
         │               ├── controllers
         │               │   ├── TaskController.java
-        │               │   └── UserController.java
+        │               │   ├── UserController.java
+        │               │   └── TestController.java  <-- Новый контроллер
         │               ├── domain
         │               │   └── User.java
         │               ├── repository
