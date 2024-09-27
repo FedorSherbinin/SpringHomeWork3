@@ -1,0 +1,24 @@
+SpringHomeWork3
+└── src
+    └── main
+        ├── java
+        │   └── ru
+        │       └── geekbrains
+        │           └── SpringHomeWork3
+        │               ├── SpringHomeWork3Application.java
+        │               ├── controllers
+        │               │   ├── TaskController.java
+        │               │   └── UserController.java
+        │               ├── domain
+        │               │   └── User.java
+        │               ├── repository
+        │               │   └── UserRepository.java
+        │               ├── services
+        │               │   ├── DataProcessingService.java
+        │               │   ├── NotificationService.java
+        │               │   ├── RegistrationService.java
+        │               │   └── UserService.java
+        │               └── exception
+        │                   └── GlobalExceptionHandler.java
+        └── resources
+            └── application.properties
